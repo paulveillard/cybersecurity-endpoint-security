@@ -4,7 +4,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ##  `What is Endpoint Security? `
 
-You'll often find the term **endpoint**
+You'll often find the term **endpoint** used to describe systems, servers, and other types of devices that need 
 
 
 GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
