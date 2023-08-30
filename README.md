@@ -4,7 +4,9 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ##  `What is Endpoint Security? `
 
-You'll often find the term **endpoint** used to describe systems, servers, and other types of devices that need 
+You'll often find the term **endpoint** used to describe systems, servers, and other types of devices that need protection. In computing, the term endpoint refers to pretty much anything connected to the network, and endpoint security refers to solutions designed to protect them.
+
+In this guide, 
 
 
 GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
