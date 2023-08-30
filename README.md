@@ -4,3 +4,5 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ##  `What is Endpoint Security? `
 
+
+GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
