@@ -13,3 +13,6 @@ You'll often find the term **endpoint** used to describe systems, servers, and o
 
 
 GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
+
+
+##  `What is The Difference between Endpoint Security and a Firewall? `
