@@ -13,12 +13,29 @@ You'll often find the term **endpoint** used to describe systems, servers, and o
 - 
 An endpoint can be considered as a device that enables an employee to connect to a corporate network. The growth in BYOD and other connected systems such as the Internet of Things (IoT) is seeing the number of devices that could potentially connect to a network increase exponentially.
 
+Some of the more common devices that can be considered an endpoint include:
+
+ATM machines
+IoT-enabled smart devices
+Industrial machines
+Laptop computers
+Medical devices
+Mobile phones
+Printers
+Servers
+Tablets
+Wearables, such as smartwatches
+
+
+## Endpoint Security Solutions
+
+
 GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
 
 
 
 
-What Are the Components of Endpoint Security Software?
+## What Are the Components of Endpoint Security Software?
 
 
 
