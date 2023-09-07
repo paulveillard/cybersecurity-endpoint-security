@@ -23,8 +23,8 @@ An endpoint can be considered as a device that enables an employee to connect to
 - Mobile phones
 - Printers
 - Servers
-Tablets
-Wearables, such as smartwatches
+- Tablets
+- Wearables, such as smartwatches
 
 
 ## `Endpoint Security Solutions`
@@ -33,6 +33,7 @@ Wearables, such as smartwatches
 GRR, MIG, and osquery are endpoint-security solutions that allow investigators to inspect the systems of their infrastructure in real time.
 
 
+## `How Does Endpoint Security Work?`
 
 
 ## `What Are the Components of Endpoint Security Software?`
