@@ -17,8 +17,8 @@ An endpoint can be considered as a device that enables an employee to connect to
 
 - ATM machines
 - IoT-enabled smart devices
-Industrial machines
-Laptop computers
+- Industrial machines
+- Laptop computers
 Medical devices
 Mobile phones
 Printers
