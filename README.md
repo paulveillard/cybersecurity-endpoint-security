@@ -43,6 +43,13 @@ An endpoint can be considered as a device that enables an employee to connect to
 
 There are several significant differences between endpoint protection and antivirus software. These include:
 
+| Rank | Languages |  Languages |
+|-----:|-----------|------------|
+|     Device Coverage| Javascript|
+|     Protection from threats| Javascript|
+|     Continuous Protection| Python    |
+|     3| SQL       |
+
 ## `Endpoint Security Solutions`
 
 
