@@ -35,6 +35,12 @@ An endpoint can be considered as a device that enables an employee to connect to
 
 ## `Endpoint Protection vs. Antivirus: What Is the Difference?`
 
+---
+> Antivirus software helps businesses detect, eliminate, and prevent malware from infecting devices. Antivirus solutions are installed directly on endpoint devices, such as laptops, PCs, network servers, and mobile devices. These solutions detect malware by scanning files and directories to discover patterns that match the definitions and signatures of a virus. They can also only recognize known threats and must be updated to detect the latest malware strains.
+
+---
+> Endpoint security threat prevention is fundamentally different from the approach of antivirus software. Instead of protecting an individual device, endpoint security solutions protect the entire business network, including all of the endpoints connecting to it.
+
 
 ## `Endpoint Security Solutions`
 
