@@ -41,6 +41,7 @@ An endpoint can be considered as a device that enables an employee to connect to
 
 > Endpoint security threat prevention is fundamentally different from the approach of antivirus software. Instead of protecting an individual device, endpoint security solutions protect the entire business network, including all of the endpoints connecting to it.
 
+There are several significant differences between endpoint protection and antivirus software. These include:
 
 ## `Endpoint Security Solutions`
 
