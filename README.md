@@ -65,6 +65,8 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 
 ##  `What is The Difference between Endpoint Security and a Firewall? `
 
+## FAQs
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
