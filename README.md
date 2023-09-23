@@ -76,9 +76,15 @@ Selecting the best security solution depends on every organization’s individua
 > Small businesses may find a product that requires managing devices on an individual basis works just fine. But as they get larger, it can become more difficult for IT and security teams to manage each device in this manner. Therefore, they will gain huge efficiency by deploying a security solution that centralizes endpoint control.
 
 
-Employee location: Businesses that have employees working from one central location may not experience any issues with managing endpoint access. But those with a disparate workforce, employees working from home, remote offices, or on the go will need an endpoint security solution that secures endpoints no matter where or when employees attempt to connect to their networks and resources.
-Device ownership: The rise of BYOD has blurred the lines of device ownership. Employees increasingly use their own devices to sign in and out of business networks and need to do so securely. An endpoint security solution enables businesses to secure employees every time they sign in to their networks and monitor access at all times.
-Data sensitivity: Businesses that handle high-value intellectual property or sensitive data will find that antivirus software does not suffice in safeguarding their data, as it only protects it from viruses. To protect themselves from data loss incidents that pose a huge financial and reputational risk, these organizations need to deploy endpoint security solutions. Doing so will help them protect their most critical data, meet compliance requirements, and pass their audits.
+**2) Employee location:**
+> Businesses that have employees working from one central location may not experience any issues with managing endpoint access. But those with a disparate workforce, employees working from home, remote offices, or on the go will need an endpoint security solution that secures endpoints no matter where or when employees attempt to connect to their networks and resources.
+
+**3) Device ownership:**
+> The rise of BYOD has blurred the lines of device ownership. Employees increasingly use their own devices to sign in and out of business networks and need to do so securely. An endpoint security solution enables businesses to secure employees every time they sign in to their networks and monitor access at all times.
+
+
+**Data sensitivity:** 
+> Businesses that handle high-value intellectual property or sensitive data will find that antivirus software does not suffice in safeguarding their data, as it only protects it from viruses. To protect themselves from data loss incidents that pose a huge financial and reputational risk, these organizations need to deploy endpoint security solutions. Doing so will help them protect their most critical data, meet compliance requirements, and pass their audits.
 
 ## FAQs
 
