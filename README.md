@@ -2,6 +2,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Endpoint Security in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+# Theory
 
 ## Table of Contents
 - [What is endpoint security](#what-is-endpoint-security-)
@@ -99,7 +100,9 @@ Selecting the best security solution depends on every organization’s individua
 > Endpoint security technology plays a vital role in protecting organizations from the increasingly dangerous threat landscape.
 
 #### Is endpoint security and antivirus the same?
-> Antivirus software helps businesses detect, eliminate, and prevent malware from infecting devices. Antivirus solutions are installed directly on endpoint devices, such as laptops, PCs, network servers, and mobile devices.  Endpoint security solutions protect the entire business network instead of protecting an individual device. 
+> Antivirus software helps businesses detect, eliminate, and prevent malware from infecting devices. Antivirus solutions are installed directly on endpoint devices, such as laptops, PCs, network servers, and mobile devices.  Endpoint security solutions protect the entire business network instead of protecting an individual device.
+
+# 
 
 
 ## License
