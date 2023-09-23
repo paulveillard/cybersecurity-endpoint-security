@@ -102,7 +102,7 @@ Selecting the best security solution depends on every organization’s individua
 #### Is endpoint security and antivirus the same?
 > Antivirus software helps businesses detect, eliminate, and prevent malware from infecting devices. Antivirus solutions are installed directly on endpoint devices, such as laptops, PCs, network servers, and mobile devices.  Endpoint security solutions protect the entire business network instead of protecting an individual device.
 
-# 
+# Techniques
 
 
 ## License
