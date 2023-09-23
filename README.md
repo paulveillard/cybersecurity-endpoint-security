@@ -73,6 +73,12 @@ An endpoint is any device that employees use to connect to business networks rep
 #### What is endpoint security?
 Endpoint security is the process of protecting devices like desktops, laptops, mobile phones, and tablets from malicious threats and cyberattacks.
 
+#### Why do we need endpoint security?
+Endpoint security technology plays a vital role in protecting organizations from the increasingly dangerous threat landscape.
+
+#### Is endpoint security and antivirus the same?
+Antivirus software helps businesses detect, eliminate, and prevent malware from infecting devices. Antivirus solutions are installed directly on endpoint devices, such as laptops, PCs, network servers, and mobile devices.  Endpoint security solutions protect the entire business network instead of protecting an individual device. 
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
