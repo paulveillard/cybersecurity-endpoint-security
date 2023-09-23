@@ -62,6 +62,7 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 ## `What Are the Components of Endpoint Security Software?`
 
 
+[image](
 
 ##  `What is The Difference between Endpoint Security and a Firewall? `
 **A firewall is a network security solution that monitors incoming and outgoing traffic and decides whether to allow or deny access. Endpoint security protects the data on the device itself, enabling the business to monitor the activity and status of all its employees’ devices at all times.**
