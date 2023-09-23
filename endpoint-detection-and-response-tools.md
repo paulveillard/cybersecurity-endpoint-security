@@ -1,6 +1,6 @@
 # Endpoint Detection and Response Tools
 
-Collection of tool you need to have in your EDR arsenal
+### Collection of tool you need to have in your EDR arsenal
 
 - [The Hives Project](https://thehive-project.org/) - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP (Malware Information Sharing Platform), designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
   - [TheHive](https://github.com/TheHive-Project/TheHive) - A Scalable, Open Source and Free Security Incident Response Platform
