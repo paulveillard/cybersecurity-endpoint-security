@@ -6,12 +6,12 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Theory` - Table of Contents
 - [Introduction](#introduction)
+- [What is endpoint security](#what-is-endpoint-security-)
  
 ## `Techniques` - Table of Contents
 
 ## `Tools` - Table of Contents
 
-- [What is endpoint security](#what-is-endpoint-security-)
 
 ##  `What is Endpoint Security? `
 
