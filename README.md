@@ -67,6 +67,11 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 
 ## FAQs
 
+#### What is an endpoint?
+An endpoint is any device that employees use to connect to business networks represents a potential risk that cyber criminals can exploit to steal corporate data.
+
+
+
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
