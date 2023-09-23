@@ -64,7 +64,7 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 
 
 ##  `What is The Difference between Endpoint Security and a Firewall? `
-- A firewall is a network security solution that monitors incoming and outgoing traffic and decides whether to allow or deny access. Endpoint security protects the data on the device itself, enabling the business to monitor the activity and status of all its employees’ devices at all times.
+**A firewall is a network security solution that monitors incoming and outgoing traffic and decides whether to allow or deny access. Endpoint security protects the data on the device itself, enabling the business to monitor the activity and status of all its employees’ devices at all times.**
 
 Traditionally, firewalls were ideal for businesses that had all employees working from the same building and signing into the same network. However, with people increasingly working remotely or from home, a firewall no longer suffices as traffic no longer goes through the central network, which leaves devices vulnerable.
 
