@@ -70,7 +70,8 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 #### What is an endpoint?
 An endpoint is any device that employees use to connect to business networks represents a potential risk that cyber criminals can exploit to steal corporate data.
 
-
+#### What is endpoint security?
+Endpoint security is the process of protecting devices like desktops, laptops, mobile phones, and tablets from malicious threats and cyberattacks.
 
 
 ## License
