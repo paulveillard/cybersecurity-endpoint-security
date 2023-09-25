@@ -67,7 +67,9 @@ GRR, MIG, and osquery are endpoint-security solutions that allow investigators t
 
 
 ## `How Does Endpoint Security Work?`
-The **main goal of any endpoint security solution is to protect data and workflows associated with all devices that connect to the corporate network.** It does this by examining files as they enter the network and comparing them against an ever-increasing database of threat information, which is stored in the cloud. 
+The **main goal of any endpoint security solution is to protect data and workflows associated with all devices that connect to the corporate network.** It does this by examining files as they enter the network and comparing them against an ever-increasing database of threat information, which is stored in the cloud.
+
+![how-it-works](https://github.com/paulveillard/cybersecurity-endpoint-security/blob/main/img/how-endpoint-security-works.png)
 
 The endpoint security solution provides system admins with a centralized management console that is installed on a network or server and enables them to control the security of all devices connecting to them. Client software is then deployed to each endpoint, either remotely or directly. With the endpoint set up, the software pushes updates to it whenever necessary, authenticates login attempts that are made from it, and administers corporate policies. 
 
