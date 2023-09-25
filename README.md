@@ -42,6 +42,8 @@ You'll often find the term **endpoint** used to describe systems, servers, and o
 
 ## `Why Is Endpoint Security Important?`
 
+![endpoint-security-important](https://github.com/paulveillard/cybersecurity-endpoint-security/blob/main/img/endpoint-compliance.png)
+
 
 ## `Endpoint Protection vs. Antivirus: What Is the Difference?`
 
